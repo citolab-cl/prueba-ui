@@ -8,7 +8,7 @@ Queremos rediseñar la interfaz de nuestro software interno utilizado por el equ
 ### Objetivos Específicos
 - Mejorar la claridad y organización de la información.
 - Asegurar que toda la información necesaria esté visible sin necesidad de desplazamiento.
-- Actualizar la estética visual para alinearse con la identidad de marca de Citolab.
+- **Actualizar la estética visual para alinearse con la identidad de marca de Citolab.**
 - Mejorar la facilidad de uso y reducir la sobrecarga cognitiva para los usuarios.
 
 ### Requisitos y Funcionalidades Específicas:
@@ -24,11 +24,11 @@ Elementos:
 - Estado de placas y gestión de etiquetas.
 
 ### Estilo y Tonalidad:
-Estilo Visual: Moderno, limpio, profesional, y alineado con la identidad visual de Citolab.
+Estilo Visual: Moderno, limpio, profesional, y alineado con la identidad visual de Citolab.  
 Tonalidad: Informativa, precisa y accesible.
 
 ### Referencias:
-Referencias: Citolab website (citolab.cl)
+Referencias: Citolab website (https://citolab.cl)
 
 ### Recursos Disponibles:
 Recursos:
@@ -42,14 +42,15 @@ Recursos:
 - Capacidad para cumplir con los plazos (1 semana)
 
 ### Tareas del Candidato:
-Análisis del Diseño Actual:
-- Identificar puntos a favor y en contra del diseño actual basándose en la imagen proporcionada.
-Propuesta de Diseño Nueva:
+1. Análisis del Diseño Actual:
+- Identificar puntos a favor y en contra del diseño actual basándose en la imagen proporcionada, enviar feedback por correo.
+
+2. Propuesta de Diseño Nueva:
 - Crear una propuesta de diseño nueva usando su propio estilo. (puede mantener la estructura si lo considera necesario)
 - Identificar los colores de Citolab según la web citolab.cl.
 - Asegurar que toda la información aparezca en una sola pantalla sin necesidad de desplazamiento.
 
 ### Proceso de Envío:
-- Enviar análisis y propuesta a través de correo a ricardo@citolab.cl
+- Enviar análisis de diseño actual y propuesta de diseño nuevo a través de correo a ricardo@citolab.cl
 - Al momento de enviar la prueba, adjuntar tambien CV y portafolio
 - Enviar cualquier pregunta adicional a través de correo.
