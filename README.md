@@ -50,5 +50,6 @@ Propuesta de Diseño Nueva:
 - Asegurar que toda la información aparezca en una sola pantalla sin necesidad de desplazamiento.
 
 ### Proceso de Envío:
-Enviar análisis y propuesta a través de correo a ricardo@citolab.cl
-Adjuntar cualquier pregunta adicional también a través de correo.
+- Enviar análisis y propuesta a través de correo a ricardo@citolab.cl
+- Al momento de enviar la prueba, adjuntar tambien CV y portafolio
+- Enviar cualquier pregunta adicional a través de correo.
