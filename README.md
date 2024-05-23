@@ -13,15 +13,16 @@ Queremos rediseñar la interfaz de nuestro software interno utilizado por el equ
 
 ### Requisitos y Funcionalidades Específicas:
 Funcionalidades:
-- Visualización clara de informes y cassettes encapsulados.
-- Detalle de técnicas especiales y eventos adversos.
-- Información de plazos y responsables de tareas.
-- Generación y estado de placas.
-Elementos:
-- Información de identificación (Número de informe, fechas, ayudante, etc.).
-- Listado de cassettes encapsulados y tacos de inclusión.
-- Técnicas especiales y eventos adversos.
-- Estado de placas y gestión de etiquetas.
+- Visualización clara de N° de Informe y N° de cassettes encapsulados.
+- Visualización y detalle de técnicas especiales y eventos adversos.
+- Información de fechas y responsables de tareas por cada sección
+- Generación y estado de placas, botón "CREAR PLACAS CITO"
+- Eliminar Placas
+Elementos:  
+- Información de identificación por cada sección (Número de informe, fechas, ayudante, etc.).
+- Sección listado de cassettes encapsulados, tacos de inclusión y placas
+- Sección técnicas especiales y eventos adversos.
+- Visualización de estado de placas y gestión de etiquetas
 
 ### Estilo y Tonalidad:
 Estilo Visual: Moderno, limpio, profesional, y alineado con la identidad visual de Citolab.  
