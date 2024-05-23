@@ -51,6 +51,6 @@ Recursos:
 - Asegurar que toda la información aparezca en una sola pantalla sin necesidad de desplazamiento.
 
 ### Proceso de Envío:
-- Enviar análisis de diseño actual y propuesta de diseño nuevo a través de correo a ricardo@citolab.cl
+- Enviar análisis de diseño actual y propuesta de diseño nuevo con sus argumentos escritos a través de correo a ricardo@citolab.cl
 - Al momento de enviar la prueba, adjuntar tambien CV y portafolio
 - Enviar cualquier pregunta adicional a través de correo.
